@@ -1,3 +1,4 @@
+Here’s the updated `README.md` file that includes information about the dataset source:
 
 ```markdown
 # Sales Analysis Project
@@ -13,6 +14,7 @@ The dataset used in this project is downloaded from Kaggle: [Customer Shopping D
 ### Dataset Columns
 
 The dataset contains the following columns:
+
 
 - **invoice_no**: Unique identifier for each transaction.
 - **customer_id**: Identifier for each customer.
