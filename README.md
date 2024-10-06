@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file that includes information about the dataset source:
-
-```markdown
 # Sales Analysis Project
 
 ## Overview
@@ -14,7 +11,6 @@ The dataset used in this project is downloaded from Kaggle: [Customer Shopping D
 ### Dataset Columns
 
 The dataset contains the following columns:
-
 
 - **invoice_no**: Unique identifier for each transaction.
 - **customer_id**: Identifier for each customer.
@@ -53,7 +49,6 @@ To get started with this analysis, clone the repository and run the Jupyter note
 
 ```bash
 git clone https://github.com/Prachitidagale910/analysis-projects-series.git
-```
 
 ## License
 
